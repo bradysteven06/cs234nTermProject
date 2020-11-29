@@ -1,0 +1,12 @@
+C:\Users\Reits\Documents\Courses\CS 234N\Term Project\EFCore\BitsEFCore\BitsEFClasses\bin\Debug\netcoreapp3.1\BitsEFClasses.deps.json
+C:\Users\Reits\Documents\Courses\CS 234N\Term Project\EFCore\BitsEFCore\BitsEFClasses\bin\Debug\netcoreapp3.1\BitsEFClasses.runtimeconfig.json
+C:\Users\Reits\Documents\Courses\CS 234N\Term Project\EFCore\BitsEFCore\BitsEFClasses\bin\Debug\netcoreapp3.1\BitsEFClasses.runtimeconfig.dev.json
+C:\Users\Reits\Documents\Courses\CS 234N\Term Project\EFCore\BitsEFCore\BitsEFClasses\bin\Debug\netcoreapp3.1\BitsEFClasses.dll
+C:\Users\Reits\Documents\Courses\CS 234N\Term Project\EFCore\BitsEFCore\BitsEFClasses\bin\Debug\netcoreapp3.1\BitsEFClasses.pdb
+C:\Users\Reits\Documents\Courses\CS 234N\Term Project\EFCore\BitsEFCore\BitsEFClasses\obj\Debug\netcoreapp3.1\BitsEFClasses.csprojAssemblyReference.cache
+C:\Users\Reits\Documents\Courses\CS 234N\Term Project\EFCore\BitsEFCore\BitsEFClasses\obj\Debug\netcoreapp3.1\BitsEFClasses.AssemblyInfoInputs.cache
+C:\Users\Reits\Documents\Courses\CS 234N\Term Project\EFCore\BitsEFCore\BitsEFClasses\obj\Debug\netcoreapp3.1\BitsEFClasses.AssemblyInfo.cs
+C:\Users\Reits\Documents\Courses\CS 234N\Term Project\EFCore\BitsEFCore\BitsEFClasses\obj\Debug\netcoreapp3.1\BitsEFClasses.csproj.CoreCompileInputs.cache
+C:\Users\Reits\Documents\Courses\CS 234N\Term Project\EFCore\BitsEFCore\BitsEFClasses\obj\Debug\netcoreapp3.1\BitsEFClasses.dll
+C:\Users\Reits\Documents\Courses\CS 234N\Term Project\EFCore\BitsEFCore\BitsEFClasses\obj\Debug\netcoreapp3.1\BitsEFClasses.pdb
+C:\Users\Reits\Documents\Courses\CS 234N\Term Project\EFCore\BitsEFCore\BitsEFClasses\obj\Debug\netcoreapp3.1\BitsEFClasses.genruntimeconfig.cache

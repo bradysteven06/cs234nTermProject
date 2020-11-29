@@ -1,0 +1,9 @@
+C:\Users\Reits\Documents\Courses\CS 234N\Term Project\EFCore\BitsEFCore\BitsTests\bin\Debug\netcoreapp3.1\BitsTests.deps.json
+C:\Users\Reits\Documents\Courses\CS 234N\Term Project\EFCore\BitsEFCore\BitsTests\bin\Debug\netcoreapp3.1\BitsTests.dll
+C:\Users\Reits\Documents\Courses\CS 234N\Term Project\EFCore\BitsEFCore\BitsTests\bin\Debug\netcoreapp3.1\BitsTests.pdb
+C:\Users\Reits\Documents\Courses\CS 234N\Term Project\EFCore\BitsEFCore\BitsTests\obj\Debug\netcoreapp3.1\BitsTests.csprojAssemblyReference.cache
+C:\Users\Reits\Documents\Courses\CS 234N\Term Project\EFCore\BitsEFCore\BitsTests\obj\Debug\netcoreapp3.1\BitsTests.AssemblyInfoInputs.cache
+C:\Users\Reits\Documents\Courses\CS 234N\Term Project\EFCore\BitsEFCore\BitsTests\obj\Debug\netcoreapp3.1\BitsTests.AssemblyInfo.cs
+C:\Users\Reits\Documents\Courses\CS 234N\Term Project\EFCore\BitsEFCore\BitsTests\obj\Debug\netcoreapp3.1\BitsTests.csproj.CoreCompileInputs.cache
+C:\Users\Reits\Documents\Courses\CS 234N\Term Project\EFCore\BitsEFCore\BitsTests\obj\Debug\netcoreapp3.1\BitsTests.dll
+C:\Users\Reits\Documents\Courses\CS 234N\Term Project\EFCore\BitsEFCore\BitsTests\obj\Debug\netcoreapp3.1\BitsTests.pdb
