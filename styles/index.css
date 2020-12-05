@@ -1,8 +1,12 @@
 body {
     font: 13px/20px "Lucida Grande", Tahoma, Verdana, sans-serif;
     color: #404040;
-    background-image: url("images/transparentLogo.png");
     background: #2c2c2c;
+    background-image: url("../images/transparentLogo.png");
+    background-repeat: no-repeat;
+    background-size: 1200px;
+    background-position-x: center;
+    background-position-y: 30%;
   }
   
   .login {
@@ -16,7 +20,7 @@ body {
     box-shadow: 0 0 200px rgba(255, 255, 255, 0.5), 0 1px 2px rgba(0, 0, 0, 0.3);
   }
   
-  .login:before {
+  /* .login:before {
     content: '';
     position: absolute;
     top: -8px;
@@ -26,7 +30,7 @@ body {
     z-index: -1;
     background: rgba(0, 0, 0, 0.08);
     border-radius: 4px;
-  }
+  } */
   
   .login h1 {
     margin: -20px -20px 21px;
@@ -59,19 +63,19 @@ body {
     width: 278px;
   }
    
-  .login p.submit {
+  /* .login p.submit {
     text-align: right;
-  }
+  } */
   
-  :-moz-placeholder {
+  /* :-moz-placeholder {
     color: #c9c9c9 !important;
     font-size: 13px;
-  }
+  } */
   
-  ::-webkit-input-placeholder {
+  /* ::-webkit-input-placeholder {
     color: #ccc;
     font-size: 13px;
-  }
+  } */
   
   input {
     font-family: 'Lucida Grande', Tahoma, Verdana, sans-serif;
@@ -100,14 +104,14 @@ body {
     outline-offset: 0;
   }
   
-  input[type=submit] {
+  /* input[type=submit] {
     padding: 0 18px;
     height: 29px;
     font-size: 12px;
     font-weight: bold;
     color: #527881;
     text-shadow: 0 1px #e3f1f1;
-    background: #cde5ef;
+    background: #426472;
     border: 1px solid;
     border-color: #b4ccce #b3c0c8 #9eb9c2;
     border-radius: 16px;
@@ -121,14 +125,14 @@ body {
     background-image: linear-gradient(to bottom, #edf5f8, #cde5ef);
     -webkit-box-shadow: inset 0 1px white, 0 1px 2px rgba(0, 0, 0, 0.15);
     box-shadow: inset 0 1px white, 0 1px 2px rgba(0, 0, 0, 0.15);
-  }
+  } */
   
-  input[type=submit]:active {
+  /* input[type=submit]:active {
     background: #cde5ef;
     border-color: #9eb9c2 #b3c0c8 #b4ccce;
     -webkit-box-shadow: inset 0 0 3px rgba(0, 0, 0, 0.2);
     box-shadow: inset 0 0 3px rgba(0, 0, 0, 0.2);
-  }
+  } */
   
   .lt-ie9 input[type=text], .lt-ie9 input[type=password] {
     line-height: 34px;
